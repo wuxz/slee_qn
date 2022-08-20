@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/activation.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/activemq-all-5.3.2.jar" sourcepath="D:/wuxz/software/java/apache-activemq-5.0.0/src/activemq-core/src/main"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/axis.jar" sourcepath="D:/wuxz/software/java/webservice/axis-1_4/src"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/c3p0-0.9.1.2.jar" sourcepath="D:/wuxz/software/java/c3p0-0.9.1.2.src/src/classes"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/com.ibm.mq.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/com.ibm.mqjms.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/com.jcraft.jsch_0.1.31.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/commons-discovery-0.4.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/commons-httpclient-3.1.jar" sourcepath="D:/wuxz/software/java/commons-httpclient-3.1/src/java"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/commons-logging-1.1.1.jar" sourcepath="D:/wuxz/software/java/commons-logging-1.1.1-src/src/java"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/commons-net-1.4.1.jar" sourcepath="D:/wuxz/software/java/open source/commons-net-1.4.1-src.zip"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/commons-vfs-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/connector.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/cos.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/dhbcore.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/FastInfoset.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/fscontext.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/http.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/Ice.jar" sourcepath="D:/wuxz/software/ice/IceJ-3.2.0-java5/src/IceInternal"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/jakarta-oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/jaxb-xjc.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/jaxrpc-1_1.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/jcifs-1.2.19.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/je-3.3.75.jar" sourcepath="D:/wuxz/software/java/berkeleydb/je-3.3.75/src"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/j-interop.jar" sourcepath="D:/wuxz/software/java/combridge/j-Interop/src"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/j-interopdeps.jar" sourcepath="D:/wuxz/software/java/combridge/j-Interop/src"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/jms-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/jna.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/jndi-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/jsr173_api.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/jta.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/mail.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/msbase.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/mssqlserver.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/msutil.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/providerutil.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/qname.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/resolver.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/saaj-api.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/saaj-impl.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/saxon8.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/saxon8-dom.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/saxon8-xom.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/saxon8-xpath.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/servlet-2_2.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/sjsxp.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/smsApi-1.0.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/SNMP4J.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/soaprmi-1_1.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/stax-ex.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/streambuffer.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/wsdl4j.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/wsif.jar" sourcepath="D:/wuxz/software/java/webservice/wsif-2.1.0_RC2/src"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/xbean.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/xbean_xpath.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/xcpclient.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/xmscomm.jar" sourcepath="D:/workspace/COMM"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/xpp.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/xstream-1.1.2.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ReusableLib"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.6.0_18/lib/tools.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/protobuf_2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/SLEE/2开发里程区/2源代码/SLEE FOR AIX/lib/netty-3.2.1.Final.jar" sourcepath="D:/wuxz/software/java/protocol buffer/netty-3.2.1.Final/src/main/java"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

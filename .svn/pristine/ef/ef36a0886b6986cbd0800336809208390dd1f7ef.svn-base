@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="GBK"?>
+<jardesc>
+<jar path="d:/slee.jar"/>
+<options buildIfNeeded="true" compress="false" descriptionLocation="/slee/desctipion.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+<storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+<selectedProjects/>
+<manifest generateManifest="false" manifestLocation="/slee/MANIFEST.MF" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+<sealing sealJar="false">
+<packagesToSeal/>
+<packagesToUnSeal/>
+</sealing>
+</manifest>
+<selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+<javaElement handleIdentifier="=slee/src"/>
+<file path="/slee/SLEE Release Note.txt"/>
+</selectedElements>
+</jardesc>
