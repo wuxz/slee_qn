@@ -1,1 +1,2 @@
 Slee in channelsoft. Wrote in 2007 to 2010.
+A full-featured application server with functions including application lifecycle management, automatic loading and updating of application scripts, compilation and execution of application code, plug-in architecture based on COM component model, external connector based on JavaEE Adaptor architecture, support for VBScript-based programming scripts, etc.
